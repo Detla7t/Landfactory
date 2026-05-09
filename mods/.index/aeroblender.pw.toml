@@ -1,0 +1,21 @@
+filename = 'aeroblender-1.19.2-1.0.1.jar'
+name = 'AeroBlender'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'aeroblender-1.19.2-1.0.1.jar'
+
+[download]
+hash = '935d52c587bc0d0cf62917a5c01fae3a104c5dac'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5178797
+project-id = 879879
+
+[[x-prismlauncher-dependencies]]
+addonId = '255308'
+type = 'REQUIRED'

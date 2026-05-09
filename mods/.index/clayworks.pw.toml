@@ -1,0 +1,21 @@
+filename = 'clayworks-1.19.2-2.1.0.jar'
+name = 'Clayworks'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Clayworks 1.19.2 - 2.1.0'
+
+[download]
+hash = 'cbbd9b65d6d99d99a8131888ea6670b2f4fa8329'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4776086
+project-id = 592162
+
+[[x-prismlauncher-dependencies]]
+addonId = '382216'
+type = 'REQUIRED'

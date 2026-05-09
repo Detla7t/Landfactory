@@ -1,0 +1,18 @@
+filename = 'sons-of-sins-1.19.2-2.1.6.jar'
+name = 'Sons Of Sins'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'sons-of-sins-1.19.2-2.1.6.jar'
+
+[download]
+hash = '73679e43b7b8b3e17f138176ab5af9fc93d948db'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5159581
+project-id = 538529

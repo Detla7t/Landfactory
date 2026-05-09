@@ -1,0 +1,21 @@
+filename = 'RingsOfAscension-1.19-1.0.1.jar'
+name = 'Rings of Ascension (Forge/NeoForge)'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'RingsOfAscension-1.19-1.0.1.jar'
+
+[download]
+hash = '8a0332b62abe78cd5a2353ddc132823a530089df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3886243
+project-id = 379208
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'

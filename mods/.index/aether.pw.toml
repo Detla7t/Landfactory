@@ -1,0 +1,29 @@
+filename = 'aether-1.19.2-1.4.2-forge.jar'
+name = 'The Aether'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'The Aether - 1.19.2-1.4.2-forge'
+
+[download]
+hash = 'cb11e3d83c1d1357b1505d112f401fdcb29de667'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5302176
+project-id = 255308
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '526854'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '915473'
+type = 'EMBEDDED'

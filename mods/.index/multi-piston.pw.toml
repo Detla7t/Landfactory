@@ -1,0 +1,21 @@
+filename = 'multipiston-1.19.2-1.2.25-ALPHA.jar'
+name = 'Multi-Piston'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'multipiston-1.19.2-1.2.25-ALPHA.jar'
+
+[download]
+hash = '46efc2d63dfc0a1e4dd67e0c625348495741f5ff'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4372604
+project-id = 303278
+
+[[x-prismlauncher-dependencies]]
+addonId = '522992'
+type = 'REQUIRED'

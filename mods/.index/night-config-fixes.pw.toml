@@ -1,0 +1,18 @@
+filename = 'NightConfigFixes-v4.0.7-1.19.2-Forge.jar'
+name = 'Night Config Fixes [Archived]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[FORGE] [1.19.2] NightConfigFixes-v4.0.7'
+
+[download]
+hash = '6d6c7baf076e39f38add5b96bc4c3a0fd1d8f679'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4459148
+project-id = 813369

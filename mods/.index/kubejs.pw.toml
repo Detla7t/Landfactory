@@ -1,0 +1,25 @@
+filename = 'kubejs-forge-1902.6.2-build.73.jar'
+name = 'KubeJS'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'KubeJS Forge 1902.6.2-build.73'
+
+[download]
+hash = '7977da0e43c0aafbcdfdb3dbcb06d2987a5f33af'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5408722
+project-id = 238086
+
+[[x-prismlauncher-dependencies]]
+addonId = '416294'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

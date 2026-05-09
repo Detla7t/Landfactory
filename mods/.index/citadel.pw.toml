@@ -1,0 +1,18 @@
+filename = 'citadel-2.1.4-1.19.jar'
+name = 'Citadel'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'citadel-2.1.4-1.19'
+
+[download]
+hash = '59a080397f767536f85bee28eb805e12d0317bdd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4556677
+project-id = 331936

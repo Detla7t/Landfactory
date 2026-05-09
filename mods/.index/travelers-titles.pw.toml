@@ -1,0 +1,21 @@
+filename = 'TravelersTitles-1.19.2-Forge-3.1.2.jar'
+name = "Traveler's Titles (Forge/NeoForge)"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "[1.19.2] Traveler's Titles v3.1.2 (Forge)"
+
+[download]
+hash = 'c31d85ddd4b3bebafff0d47862f913d06248c509'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4034656
+project-id = 504908
+
+[[x-prismlauncher-dependencies]]
+addonId = '421850'
+type = 'REQUIRED'

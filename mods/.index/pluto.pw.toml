@@ -1,0 +1,29 @@
+filename = 'pluto-mc1.19.2-0.0.9.jar'
+name = 'Pluto'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Pluto 0.0.9 for MC 1.19.2'
+
+[download]
+hash = 'b0e9b7817ebfae40a56da53129361822ee379974'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4469704
+project-id = 682881
+
+[[x-prismlauncher-dependencies]]
+addonId = '633412'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '665658'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '670986'
+type = 'OPTIONAL'

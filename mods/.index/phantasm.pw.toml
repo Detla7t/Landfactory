@@ -1,0 +1,18 @@
+filename = "End's Phantasm - BETAv1.2.10.5 - 1.19.2.jar"
+name = "End's Phantasm"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "End's Phantasm - BETAv1.2.10.5 - 1.19.2.jar"
+
+[download]
+hash = '71464550f667d4b035f8a3f63c628c202a60652e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4398465
+project-id = 565254

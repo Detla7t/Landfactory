@@ -1,0 +1,18 @@
+filename = 'DramaticDoors-QuiFabrge-1.19.2-3.2.7.jar'
+name = 'Dramatic Doors'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DramaticDoors-QuiFabrge-1.19.2-3.2.7.jar'
+
+[download]
+hash = '0a81eaa911bd588dd5447cab08bc3ad34fcc5daf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5688563
+project-id = 380617

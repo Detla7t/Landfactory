@@ -1,0 +1,21 @@
+filename = 'LeavesBeGone-v4.0.1-1.19.2-Forge.jar'
+name = 'Leaves Be Gone'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[FORGE] [1.19.2] LeavesBeGone-v4.0.1'
+
+[download]
+hash = '0c8d5a8c085801a73d7f8aeb4922ff70a1ea6480'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4312311
+project-id = 686435
+
+[[x-prismlauncher-dependencies]]
+addonId = '495476'
+type = 'REQUIRED'

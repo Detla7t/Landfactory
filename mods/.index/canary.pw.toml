@@ -1,0 +1,25 @@
+filename = 'canary-mc1.19.2-0.3.3.jar'
+name = 'Canary'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Canary 0.3.3 for MC 1.19.2'
+
+[download]
+hash = '670a9184bff638eed2aba1368d12e0cef47728b7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5089969
+project-id = 665658
+
+[[x-prismlauncher-dependencies]]
+addonId = '670986'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '682881'
+type = 'OPTIONAL'

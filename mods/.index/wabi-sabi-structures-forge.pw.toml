@@ -1,0 +1,18 @@
+filename = 'Wabi-Sabi-Structures-1.2.0-1.19-Forge.jar'
+name = 'Wabi-Sabi Structures (Forge)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19-Snapshot', '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Wabi-Sabi Structures - 1.2.0'
+
+[download]
+hash = 'f51584915a2b3d4a1bb29d6653638f12e39e8384'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4688278
+project-id = 686097

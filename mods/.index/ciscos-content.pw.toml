@@ -1,0 +1,21 @@
+filename = 'cisco_mod_9.6.jar'
+name = "Cisco's Content"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cisco_mod_9.6.jar'
+
+[download]
+hash = 'c59abd413de9e5bfba502547cd60f62a772b4f0b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7729623
+project-id = 909160
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'

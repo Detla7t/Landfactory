@@ -1,0 +1,21 @@
+filename = 'EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar'
+name = 'Enchantment Descriptions'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar'
+
+[download]
+hash = '20bf3e1c6e100e0e34d0b5f3d92512afead735ad'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4277356
+project-id = 250419
+
+[[x-prismlauncher-dependencies]]
+addonId = '228525'
+type = 'REQUIRED'

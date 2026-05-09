@@ -1,0 +1,21 @@
+filename = 'majruszs-difficulty-forge-1.19.2-1.9.9-backport.1.jar'
+name = "Majrusz's Progressive Difficulty"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Majrusz's Progressive Difficulty 1.9.9-backport.1 (Forge)"
+
+[download]
+hash = 'a26d67a70494c71a2f9140092da7698b20372379'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5177117
+project-id = 430642
+
+[[x-prismlauncher-dependencies]]
+addonId = '437409'
+type = 'REQUIRED'

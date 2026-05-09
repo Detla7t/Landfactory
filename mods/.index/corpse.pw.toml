@@ -1,0 +1,25 @@
+filename = 'corpse-forge-1.19.2-1.0.17.jar'
+name = 'Corpse'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[FORGE][1.19.2] Corpse 1.19.2-1.0.17'
+
+[download]
+hash = '189573225253699a14d334967f30aaba4c3ab002'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5816905
+project-id = 316582
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'OPTIONAL'

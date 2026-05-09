@@ -1,0 +1,18 @@
+filename = 'majrusz-library-forge-1.19.2-7.0.5-backport.1.jar'
+name = 'Majrusz Library'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Majrusz Library 7.0.5-backport.1 (Forge)'
+
+[download]
+hash = 'a09ce29b6b0c594f4ae212f02596287a68dcb28c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5177143
+project-id = 437409

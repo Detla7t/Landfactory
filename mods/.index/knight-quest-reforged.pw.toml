@@ -1,0 +1,25 @@
+filename = 'knightquest-1.8.5.jar'
+name = 'Knight Quest [Reforged]'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Knight Quest 1.8.5 Forge [1.19.2]'
+
+[download]
+hash = 'b1da490a7258b45550ef06db3ee272ec07843d96'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6630552
+project-id = 1018043
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1105855'
+type = 'REQUIRED'

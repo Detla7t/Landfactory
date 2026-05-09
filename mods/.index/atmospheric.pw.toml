@@ -1,0 +1,21 @@
+filename = 'atmospheric-1.19.2-5.1.2.jar'
+name = 'Atmospheric'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Atmospheric 1.19.2 - 5.1.2'
+
+[download]
+hash = '6774afcb0071f3377f659e99c3e2490de5ed53f9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5239546
+project-id = 362393
+
+[[x-prismlauncher-dependencies]]
+addonId = '382216'
+type = 'REQUIRED'

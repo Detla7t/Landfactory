@@ -1,0 +1,25 @@
+filename = 'mythicmounts-19.2-7.2.1-forge.jar'
+name = 'Mythic Mounts (Forge)'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mythicmounts-19.2-7.2.1-forge.jar'
+
+[download]
+hash = '2d7804ad78899071034896853bef13cbcede0dd3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4615366
+project-id = 852096
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306770'
+type = 'REQUIRED'

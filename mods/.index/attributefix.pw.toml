@@ -1,0 +1,18 @@
+filename = 'AttributeFix-Forge-1.19.2-17.2.8.jar'
+name = 'AttributeFix'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'AttributeFix-Forge-1.19.2-17.2.8.jar'
+
+[download]
+hash = 'aa119b01daac09532715eb147f7990f2ae377c09'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5126457
+project-id = 280510

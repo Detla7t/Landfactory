@@ -1,0 +1,21 @@
+filename = 'toomanyglyphs-1.19.2-2.2.376.1564.jar'
+name = 'Too Many Glyphs'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'toomanyglyphs-1.19.2-2.2.376.1564.jar'
+
+[download]
+hash = 'd225e63cbfa88c77afa427ee23cf8f0a74563b7c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4711927
+project-id = 560595
+
+[[x-prismlauncher-dependencies]]
+addonId = '401955'
+type = 'REQUIRED'

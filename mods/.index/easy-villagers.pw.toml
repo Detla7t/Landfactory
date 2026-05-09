@@ -1,0 +1,29 @@
+filename = 'easy-villagers-forge-1.19.2-1.1.23.jar'
+name = 'Easy Villagers'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[FORGE][1.19.2] Easy Villagers 1.19.2-1.1.23'
+
+[download]
+hash = 'e5972fa34c459857e1628a902ae45c2da8324cb1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5724567
+project-id = 400514
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '245211'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'OPTIONAL'

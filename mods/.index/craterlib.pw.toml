@@ -1,0 +1,18 @@
+filename = 'CraterLib-Forge-1.19.2-3.0.1.jar'
+name = 'CraterLib'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge 1.19.2] CraterLib - 3.0.1'
+
+[download]
+hash = '5741103d94cbe53c2bb4938668042b14bc11245d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7301610
+project-id = 867099

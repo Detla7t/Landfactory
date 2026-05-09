@@ -1,0 +1,21 @@
+filename = 'awesomedungeonend-forge-1.19.2-3.1.1.jar'
+name = 'Awesome Dungeon The End edition - Forge'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Awesome dungeon the end 3.1.1 - Forge 1.19.2'
+
+[download]
+hash = 'b911c2cfe9edd7942a10adc36825f456d3693606'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4454472
+project-id = 575406
+
+[[x-prismlauncher-dependencies]]
+addonId = '532727'
+type = 'REQUIRED'

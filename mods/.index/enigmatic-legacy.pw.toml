@@ -1,0 +1,29 @@
+filename = 'EnigmaticLegacy-2.26.5.jar'
+name = 'Enigmatic Legacy'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'EnigmaticLegacy-2.26.5.jar'
+
+[download]
+hash = 'f1467614274adddc5487349991cf7f3383118539'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4392950
+project-id = 336184
+
+[[x-prismlauncher-dependencies]]
+addonId = '306770'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308989'
+type = 'REQUIRED'

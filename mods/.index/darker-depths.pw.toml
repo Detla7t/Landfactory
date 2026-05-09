@@ -1,0 +1,18 @@
+filename = 'DarkerDepths-1.19.2-1.0.0.jar'
+name = 'Darker Depths'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Darker Depths 1.0.0 - 1.19.2 '
+
+[download]
+hash = '51feaca3fd05d87cc3fc9e338d6237cbf113125c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4393843
+project-id = 460681

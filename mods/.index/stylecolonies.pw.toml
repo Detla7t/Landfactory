@@ -1,0 +1,18 @@
+filename = 'stylecolonies-1.2.2.jar'
+name = 'Stylecolonies'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Stylecolonies 1.2.2'
+
+[download]
+hash = '321135fc69aadf447b6e6f97c4c3a0e4dc5e4d35'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4936188
+project-id = 827507

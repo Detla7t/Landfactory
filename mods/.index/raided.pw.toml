@@ -1,0 +1,18 @@
+filename = 'Raided-1.19.2-0.1.6.jar'
+name = 'Raided'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Raided-1.19.2-0.1.6.jar'
+
+[download]
+hash = 'feb378051b398017745242775171f6d3978045be'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7041808
+project-id = 580942

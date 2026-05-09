@@ -1,0 +1,25 @@
+filename = 'xaerominimap-forge-1.19.2-25.3.10.jar'
+name = "Xaero's Minimap"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'forge-1.19.2-25.3.10.jar'
+
+[download]
+hash = '7d2b7f83e44e2fd8cbbda91fb115c1bcc5046d34'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7598584
+project-id = 263420
+
+[[x-prismlauncher-dependencies]]
+addonId = '636608'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '317780'
+type = 'OPTIONAL'

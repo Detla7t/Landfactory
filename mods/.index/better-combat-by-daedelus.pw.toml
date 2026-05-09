@@ -1,0 +1,25 @@
+filename = 'bettercombat-forge-1.7.1+1.19.jar'
+name = 'Better Combat [Fabric & Forge]'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'bettercombat-forge-1.7.1+1.19.jar'
+
+[download]
+hash = 'd56b38f8d809389b579f65dee51977037d313b60'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4534619
+project-id = 639842
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '658587'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'woodworks-1.19.2-2.2.2.jar'
+name = 'Woodworks'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Woodworks 1.19.2 - 2.2.2'
+
+[download]
+hash = '0fb8b73164a7069579fbcd1dc6ac7ad4fd0121be'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4776123
+project-id = 543610
+
+[[x-prismlauncher-dependencies]]
+addonId = '382216'
+type = 'REQUIRED'

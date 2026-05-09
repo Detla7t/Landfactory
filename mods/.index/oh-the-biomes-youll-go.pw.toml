@@ -1,0 +1,29 @@
+filename = "Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar"
+name = "Oh The Biomes You'll Go"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar"
+
+[download]
+hash = 'cc9ed11c1685f61e355d47181df9a5cb1ada9b58'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5116293
+project-id = 247560
+
+[[x-prismlauncher-dependencies]]
+addonId = '563928'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '693313'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

@@ -1,0 +1,25 @@
+filename = 'upgradednetherite_ultimate-1.19.2-4.1.0.4-release.jar'
+name = 'Upgraded Netherite : Ultimerite'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Upgraded Netherite : Ultimerite - 1.19.2-4.1.0.4-release'
+
+[download]
+hash = 'a4e7133df25c6630ef3c53982354910d7a0618b4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4536110
+project-id = 566868
+
+[[x-prismlauncher-dependencies]]
+addonId = '400085'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '566700'
+type = 'REQUIRED'

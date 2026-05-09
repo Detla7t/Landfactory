@@ -1,0 +1,21 @@
+filename = 'aquamirae-6.API15.jar'
+name = 'Aquamirae (Forge)'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Aquamirae 6.0.0'
+
+[download]
+hash = 'aa00812f87ca2638e4bc476a777eb20f9386fa79'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4522264
+project-id = 536254
+
+[[x-prismlauncher-dependencies]]
+addonId = '638417'
+type = 'REQUIRED'

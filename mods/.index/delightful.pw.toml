@@ -1,0 +1,69 @@
+filename = 'Delightful-1.19.2-3.4.1.jar'
+name = 'Delightful'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Delightful 3.4.1 - 1.19.2'
+
+[download]
+hash = '531b4031e28fc5c72ae2584f9123f9439d633342'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4792851
+project-id = 637529
+
+[[x-prismlauncher-dependencies]]
+addonId = '401955'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '225643'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '807101'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '659011'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '565254'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '502786'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '550532'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '247560'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '836471'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '295780'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '227639'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '379849'
+type = 'OPTIONAL'

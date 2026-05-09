@@ -1,0 +1,18 @@
+filename = 'relics-1.19.2-0.6.2.5.jar'
+name = 'Relics'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'relics-1.19.2-0.6.2.5.jar'
+
+[download]
+hash = 'b58c3ad900bcde421b129bd289ff7bc9735fc24c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6375704
+project-id = 445274

@@ -1,0 +1,21 @@
+filename = 'origins-classes-forge-1.2.1.jar'
+name = 'Origins: Classes (Forge)'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Origins Classes Forge 1.2.1'
+
+[download]
+hash = '9e80691e15ef2d0170ef3e2d5f333931efa34e7a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4965430
+project-id = 610127
+
+[[x-prismlauncher-dependencies]]
+addonId = '474438'
+type = 'REQUIRED'

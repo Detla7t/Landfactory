@@ -1,0 +1,18 @@
+filename = 'Incendium_1.19.3_v5.1.6.jar'
+name = 'Incendium'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Incendium 1.19.3 v5.1.6'
+
+[download]
+hash = '3c778f9f5d2ece9bc82ed2040f6e1de2c0220a8e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4452501
+project-id = 591388

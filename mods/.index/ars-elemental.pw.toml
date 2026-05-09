@@ -1,0 +1,21 @@
+filename = 'ars_elemental-1.19.2-0.5.9.4.1.jar'
+name = 'Ars Elemental'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Ars_Elemental 1.19.2-0.5.9.4.1'
+
+[download]
+hash = 'f58cbde64c61193f8d71e8d3a9a3aac6f374f4a0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5255886
+project-id = 561470
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'

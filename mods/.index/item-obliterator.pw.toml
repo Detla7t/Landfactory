@@ -1,0 +1,21 @@
+filename = 'Item_Obliterator-FORGE-MC1.19.2-1.6.2.jar'
+name = 'Item Obliterator (Modpack Utils Series)'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[Forge 1.19.2] Item Obliterator v1.6.2'
+
+[download]
+hash = '5a3e2efa51e1e327d170f31569de60fac0da76f0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4861271
+project-id = 835861
+
+[[x-prismlauncher-dependencies]]
+addonId = '586157'
+type = 'REQUIRED'

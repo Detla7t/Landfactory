@@ -1,0 +1,18 @@
+filename = 'Placebo-1.19.2-7.4.1.jar'
+name = 'Placebo'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Placebo-1.19.2-7.4.1.jar'
+
+[download]
+hash = '791c7a8eaf9a83b7efc21d58bd81f23b574db033'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6274259
+project-id = 283644

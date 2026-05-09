@@ -1,0 +1,25 @@
+filename = 'ApothicCurios-1.19.2-1.0.3c.jar'
+name = 'Apothic Curios'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ApothicCurios-1.19.2-1.0.3c.jar'
+
+[download]
+hash = '84129efb986668dd605ed54eea2e7de2131284f0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5352971
+project-id = 950712
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '313970'
+type = 'REQUIRED'

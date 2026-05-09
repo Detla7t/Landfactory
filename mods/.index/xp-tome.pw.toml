@@ -1,0 +1,18 @@
+filename = 'xptome-1.19-2.1.7.jar'
+name = 'XP Tome'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'xptome-1.19.x-2.1.7.jar'
+
+[download]
+hash = 'a75c7dc00aaac64e208755e964321fb7885b4113'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4061120
+project-id = 344787

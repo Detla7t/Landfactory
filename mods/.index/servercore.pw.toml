@@ -1,0 +1,18 @@
+filename = 'servercore-forge-1.3.6+1.19.2.jar'
+name = 'ServerCore'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ServerCore Forge 1.3.6+1.19.2'
+
+[download]
+hash = '2c5469f38162fff07ad84f335dfcd2cb4e791939'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5652361
+project-id = 550579

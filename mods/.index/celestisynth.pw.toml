@@ -1,0 +1,18 @@
+filename = 'celestisynth-1.19.2-1.1.5.jar'
+name = 'Celestisynth: Wishes and Hells'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge] 1.19.2-1.1.5'
+
+[download]
+hash = 'c95bf1f66059348b071fab2cf5a19b737f62d2c3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5033999
+project-id = 872712

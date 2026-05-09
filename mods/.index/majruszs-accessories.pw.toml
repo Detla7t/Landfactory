@@ -1,0 +1,25 @@
+filename = 'majruszs-accessories-forge-1.19.2-1.5.2-backport.2.jar'
+name = "Majrusz's Accessories"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Majrusz's Accessories 1.5.2-backport.2 (Forge)"
+
+[download]
+hash = '91f6edcc8864dc35304fbaa604d664ab6c1f7e6e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5188785
+project-id = 494475
+
+[[x-prismlauncher-dependencies]]
+addonId = '437409'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'OPTIONAL'

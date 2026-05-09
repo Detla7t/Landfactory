@@ -1,0 +1,18 @@
+filename = 'knightlib-forge-1.19.2-1.2.0.jar'
+name = 'Knight Lib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[FORGE] Knight Lib 1.2.0-1.19.2'
+
+[download]
+hash = '230cd8d96b1ba14dc48bc234e6636553f63b7f7c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6036816
+project-id = 1105855

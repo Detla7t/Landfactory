@@ -1,0 +1,21 @@
+filename = 'zmedievalmusic-1.19.2-2.0.jar'
+name = 'Medieval Music[Forge/Fabric]'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2', '1.19.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'zmedievalmusic-1.19.2-2.0.jar'
+
+[download]
+hash = 'f7404cfb6084a0e0c5117a1d03a066647cb3d9e0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4429878
+project-id = 521932
+
+[[x-prismlauncher-dependencies]]
+addonId = '840873'
+type = 'REQUIRED'

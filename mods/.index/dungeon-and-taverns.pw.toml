@@ -1,0 +1,18 @@
+filename = 'dungeons-and-taverns-2.0.2 forge.jar'
+name = 'Dungeons and Taverns'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Dungeons and Taverns 2.0.2 Forge'
+
+[download]
+hash = 'f925ac6efcee9a8896c52bca4fdeaa25df9a7c41'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4506854
+project-id = 853794

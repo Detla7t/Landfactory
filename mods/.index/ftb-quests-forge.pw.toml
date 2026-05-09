@@ -1,0 +1,37 @@
+filename = 'ftb-quests-forge-1902.5.10-build.497.jar'
+name = 'FTB Quests (NeoForge)'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ftb-quests-forge-1902.5.10-build.497.jar'
+
+[download]
+hash = 'd9147ce97502a3768012a3323582ab7bd2b11550'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6130546
+project-id = 289412
+
+[[x-prismlauncher-dependencies]]
+addonId = '404465'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '404468'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '889915'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '309674'
+type = 'REQUIRED'

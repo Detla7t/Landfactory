@@ -1,0 +1,18 @@
+filename = 'immersive_paintings-0.6.7+1.19.2-forge.jar'
+name = 'Immersive Paintings [Fabric/Forge]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge 1.19.2] Immersive Paintings - 0.6.7'
+
+[download]
+hash = '95022ef0930a45779ecb2bbba8769c5c2abe6bbe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4789112
+project-id = 639584

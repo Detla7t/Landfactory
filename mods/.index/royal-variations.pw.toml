@@ -1,0 +1,33 @@
+filename = 'royal_variations_[Forge]_1.19.2_1.0.jar'
+name = 'Royal Variations'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'royal_variations_[Forge]_1.19.2_1.0.jar'
+
+[download]
+hash = '41f9e0c2c7f87037ac1a193f508cf91a1b7ae03e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5196047
+project-id = 989611
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '639842'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '240630'
+type = 'OPTIONAL'

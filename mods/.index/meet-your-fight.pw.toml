@@ -1,0 +1,25 @@
+filename = 'meetyourfight-1.19.2-1.3.4.jar'
+name = 'Meet Your Fight'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'meetyourfight-1.19.2-1.3.4.jar'
+
+[download]
+hash = '15d001267ef2519d5d7d109309327cff3eabc00b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4645104
+project-id = 409371
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '405077'
+type = 'OPTIONAL'

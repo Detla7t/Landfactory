@@ -1,0 +1,21 @@
+filename = 'upgradednetherite-1.19.2-5.1.0.9-release.jar'
+name = 'Upgraded Netherite'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Upgraded Netherite - 1.19.2-5.1.0.9-release'
+
+[download]
+hash = 'f60262080264b906350bb71618432f3ef0341178'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4536108
+project-id = 400085
+
+[[x-prismlauncher-dependencies]]
+addonId = '566700'
+type = 'REQUIRED'

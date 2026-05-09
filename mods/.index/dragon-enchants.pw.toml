@@ -1,0 +1,18 @@
+filename = 'dragon_enchants-1.0.4-1.19.2.jar'
+name = 'Dragon Enchants'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'dragon_enchants-1.0.4-1.19.2.jar'
+
+[download]
+hash = 'bc96056993874957bdd6dd5ef03e3e1bd2d01abb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4343572
+project-id = 324769

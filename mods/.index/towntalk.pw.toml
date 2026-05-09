@@ -1,0 +1,21 @@
+filename = 'towntalk-1.19.2-1.0.1.jar'
+name = 'TownTalk'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2', '1.19.3', '1.19.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'TownTalk 1.19.2 1.0.1'
+
+[download]
+hash = 'de7e659eef051f1e2b7795a6fcff25f7f5e6cf93'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4942199
+project-id = 900364
+
+[[x-prismlauncher-dependencies]]
+addonId = '245506'
+type = 'REQUIRED'

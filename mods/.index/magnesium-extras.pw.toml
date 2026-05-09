@@ -1,0 +1,18 @@
+filename = 'rubidium_extras-1.19.2_v1.4.3.jar'
+name = 'Sodium/Embeddium Extras'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Rubidium Extras 1.19.2-1.4.3'
+
+[download]
+hash = '295d558c7efa08793e88cacce398bb5c4991a2b3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4632201
+project-id = 558905

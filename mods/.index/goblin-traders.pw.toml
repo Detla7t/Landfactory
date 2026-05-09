@@ -1,0 +1,25 @@
+filename = 'goblintraders-1.8.0-1.19.2.jar'
+name = 'Goblin Traders'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Goblin Traders 1.8.0'
+
+[download]
+hash = 'fd3d025dce031ecf6d143d2ca16bf1e06349b672'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4010651
+project-id = 363703
+
+[[x-prismlauncher-dependencies]]
+addonId = '459701'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '457570'
+type = 'OPTIONAL'
