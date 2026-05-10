@@ -1,1 +1,17 @@
 mods/zmedievalmusic-1.19.2-2.0.jar
+options.txt
+local/*
+logs/*
+knownkeys.txt
+patchouli_data.json
+enigmatic_persistence.dat
+/config/*client.toml
+/config/*common.toml
+jei-*
+config/advancementplaques-common.toml
+/.mixin.out/class/com/hollingsworth/arsnouveau/common/block
+/blueprints/*
+/config/byg/backups
+/fancymenu_data
+/defaultconfigs/ftbchunks
+/saves/*
